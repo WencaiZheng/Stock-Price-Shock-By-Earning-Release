@@ -1,13 +1,16 @@
 # Stock-Price-Shock-By-Earning-Release
 Analyzed the earning events (EPS surprise) effect on stock prices, with stock prices data scraped from Yahoo finance. This is my C++ final projects working in a Team of 5.
 
-## Framework##
+## Framework
+
 ![](results/p2.png)
 
-## Conclusion ##
+## Conclusion 
+
 ![](results/p9.png)
 
-## Program Outline ##
+## Program Outline 
+
 ![](results/p4.png)
 ![](results/p3.png)
 ![](results/p5.png)
@@ -15,5 +18,6 @@ Analyzed the earning events (EPS surprise) effect on stock prices, with stock pr
 ![](results/p7.png)
 
 
-## Highlights ##
+## Highlights 
+
 ![](results/p8.png)
